@@ -1,11 +1,11 @@
 '.text.html.vue':
   'Vue element mu-appbar':
-    'prefix': 'mabar',
+    'prefix': 'mappbar',
     'body': """
-    <mu-appbar title=""/>
+    <mu-appbar title="$1"/>
     """  
   'Vue element mu-avatar':
     'prefix': 'mavatar',
     'body': """
-    <mu-avatar src="" icon="" />
+    <mu-avatar src="$1" icon="$2" />
     """

@@ -1,0 +1,13 @@
+'.text.html.vue':
+  'Vue element mu-menu':
+    'prefix': 'mm',
+    'body': """
+    <mu-menu>
+		$1
+	</mu-menu>
+    """
+  'Vue element mu-menu-item':
+    'prefix': 'mmu',
+    'body': """
+    <mu-menu-item title="$1" />
+    """

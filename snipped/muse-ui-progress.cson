@@ -7,5 +7,5 @@
   'Vue element mu-linear-progress determinate':
     'prefix': 'mlpd',
     'body': """
-    <mu-linear-progress mode="determinate" :value="value"/>
+    <mu-linear-progress mode="determinate" value="$1"/>
     """

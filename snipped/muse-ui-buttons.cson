@@ -2,20 +2,20 @@
   'Vue element mu-flat-button':
     'prefix': 'mfb',
     'body': """
-    <mu-flat-button label="" @click=""/>
+    <mu-flat-button label="$1" @click="$2"/>
     """
   'Vue element mu-raised-button':
     'prefix': 'mrb',
     'body': """
-    <mu-flat-button label="" @click=""/>
+    <mu-flat-button label="$1" @click="$2"/>
     """
   'Vue element mu-icon-button':
     'prefix': 'mib',
     'body': """
-    <mu-icon-button icon="" @click=""/>
+    <mu-icon-button icon="$1" @click="$2"/>
     """
   'Vue element mu-float-button':
     'prefix': 'mfab',
     'body': """
-    <mu-float-button icon="" @click=""/>
+    <mu-float-button icon="$1" @click="$2"/>
     """

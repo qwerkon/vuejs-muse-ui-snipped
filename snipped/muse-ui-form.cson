@@ -2,5 +2,5 @@
   'Vue element mu-text-field':
     'prefix': 'mtf',
     'body': """
-    <mu-text-field v-model="" :label="" labelFloat fullWidth />
+    <mu-text-field v-model="$1" label="$2" labelFloat fullWidth />
     """
