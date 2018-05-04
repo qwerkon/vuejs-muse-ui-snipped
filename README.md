@@ -1,2 +1,2 @@
 # vuejs-muse-ui-snipped
-some snippets for muse-ui
+some snippets for [Muse-UI](http://www.muse-ui.org/#/index)
