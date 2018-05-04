@@ -1,0 +1,21 @@
+{
+  "name": "vue-muse-ui-snippets",
+  "version": "0.7.0",
+  "description": "Vue muse ui snippets",
+  "keywords": [
+    "vue",
+    "vue.js",
+    "components",
+    "snippets",
+    "element"
+  ],
+  "repository": "https://github.com/qwerkon/vuejs-muse-ui-snipped",
+  "license": "MIT",
+  "author": {
+    "name": "Krzysztof Bielecki"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
