@@ -1,0 +1,11 @@
+'.text.html.vue':
+  'Vue element mu-linear-progress':
+    'prefix': 'mlp',
+    'body': """
+    <mu-linear-progress />
+    """
+  'Vue element mu-linear-progress determinate':
+    'prefix': 'mlpd',
+    'body': """
+    <mu-linear-progress mode="determinate" :value="value"/>
+    """

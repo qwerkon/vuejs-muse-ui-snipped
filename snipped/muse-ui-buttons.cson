@@ -1,0 +1,21 @@
+'.text.html.vue':
+  'Vue element mu-flat-button':
+    'prefix': 'mfb',
+    'body': """
+    <mu-flat-button label="" @click=""/>
+    """
+  'Vue element mu-raised-button':
+    'prefix': 'mrb',
+    'body': """
+    <mu-flat-button label="" @click=""/>
+    """
+  'Vue element mu-icon-button':
+    'prefix': 'mib',
+    'body': """
+    <mu-icon-button icon="" @click=""/>
+    """
+  'Vue element mu-float-button':
+    'prefix': 'mfab',
+    'body': """
+    <mu-float-button icon="" @click=""/>
+    """

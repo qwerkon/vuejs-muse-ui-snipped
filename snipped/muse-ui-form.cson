@@ -1,0 +1,6 @@
+'.text.html.vue':
+  'Vue element mu-text-field':
+    'prefix': 'mtf',
+    'body': """
+    <mu-text-field v-model="" :label="" labelFloat fullWidth />
+    """
